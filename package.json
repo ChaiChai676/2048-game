@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-vue": "^5.2.2",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "name": "2048-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ChaiChai676/2048-game.git",
+  "author": "Chai Chai <c.chai@hotmail.co.uk>",
+  "license": "UNLICENSED"
+}
